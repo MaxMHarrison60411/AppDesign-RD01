@@ -1,0 +1,14 @@
+C:\Users\harmaxm\Desktop\online tuesday\rd1\obj\Debug\net9.0\rd1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harmaxm\Desktop\online tuesday\rd1\obj\Debug\net9.0\rd1.AssemblyInfoInputs.cache
+C:\Users\harmaxm\Desktop\online tuesday\rd1\obj\Debug\net9.0\rd1.AssemblyInfo.cs
+C:\Users\harmaxm\Desktop\online tuesday\rd1\obj\Debug\net9.0\rd1.csproj.CoreCompileInputs.cache
+C:\Users\harmaxm\Desktop\online tuesday\rd1\bin\Debug\net9.0\rd1.exe
+C:\Users\harmaxm\Desktop\online tuesday\rd1\bin\Debug\net9.0\rd1.deps.json
+C:\Users\harmaxm\Desktop\online tuesday\rd1\bin\Debug\net9.0\rd1.runtimeconfig.json
+C:\Users\harmaxm\Desktop\online tuesday\rd1\bin\Debug\net9.0\rd1.dll
+C:\Users\harmaxm\Desktop\online tuesday\rd1\bin\Debug\net9.0\rd1.pdb
+C:\Users\harmaxm\Desktop\online tuesday\rd1\obj\Debug\net9.0\rd1.dll
+C:\Users\harmaxm\Desktop\online tuesday\rd1\obj\Debug\net9.0\refint\rd1.dll
+C:\Users\harmaxm\Desktop\online tuesday\rd1\obj\Debug\net9.0\rd1.pdb
+C:\Users\harmaxm\Desktop\online tuesday\rd1\obj\Debug\net9.0\rd1.genruntimeconfig.cache
+C:\Users\harmaxm\Desktop\online tuesday\rd1\obj\Debug\net9.0\ref\rd1.dll
